@@ -7,7 +7,7 @@ import '../assets/css/footer.css';
 
 function Footer() {
   return (
-    <footer className="footer">
+    <footer className="footer" id="footer">
         <div className='footer-top'>
             <Row>
                 <Col md={6}>

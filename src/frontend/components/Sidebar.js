@@ -52,19 +52,23 @@ class Sidebar extends Component {
                                         <i className='fa fa-scissors'></i> Debt Optimizer</a>
                                     </li>
                                     <li>
-                                        <a href="/">
+                                        <a href="/identity-protector">
                                         <i className='fa fa-shield'></i> ID Protector</a>
                                     </li>
                                     <li>
-                                        <a href="/"> 
+                                        <a href="/home-purchaser"> 
                                         <i className='fa fa-home'></i> Home Purchaser</a>
                                     </li>
                                     <li>
-                                        <a href="/">
+                                        <a href="/mortage-refinancer">
                                         <i className='fa fa-dollar'></i> Mortage Refinancer</a>
                                     </li>
                                     <li>
-                                        <a href="/">
+                                        <a href="/retirement-planner">
+                                        <i className='fa fa-flag'></i> Retirement Planner</a>
+                                    </li>
+                                    <li>
+                                        <a href="/personal-loans">
                                         <i className='fa fa-money'></i> Personal Loans</a>
                                     </li>
                                     <li>

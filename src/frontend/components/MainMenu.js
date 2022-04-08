@@ -10,8 +10,7 @@ import Sidebar from './Sidebar';
 import CreditCard from './CreditCard';
 import PersonalLoans from './PersonalLoans';
 import CreditManager from './CreditManager';
-
-
+import RetirementPlanner from './RetirementPlanner';
 class MainMenu extends Component {
     constructor(props) {
         super(props)
@@ -83,6 +82,7 @@ class MainMenu extends Component {
                     <Route path="/credit-card" component={CreditCard} />
                     <Route path="/credit-manager" component={CreditManager} />
                     <Route path="/personal-loans" component={PersonalLoans} />
+                    <Route path="/retirement-planner" component={RetirementPlanner} />
                 </Router> 
             </div>
         )

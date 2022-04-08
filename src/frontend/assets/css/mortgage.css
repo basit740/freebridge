@@ -1,6 +1,9 @@
 .section-mortgage {
     margin: 0 -12px;
 }
+.section-mortgage .sidebar-nav {
+    margin: 0 12px;
+}
 .section-mortgage .mortgage-outer {
     display: flex;
     position: relative;

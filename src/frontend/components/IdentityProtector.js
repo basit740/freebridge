@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Col, Container, Row, Nav, Tabs, Tab, Accordion} from 'react-bootstrap';
+import "../assets/css/common.css";
 import "../assets/css/id-protector.css";
 import Footer from './Footer';
 import shadow from "../assets/img/shadow.png";
